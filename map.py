@@ -66,8 +66,6 @@ for i in range(len(fig.data)):
         args=["visible", [False] * len(fig.data)],
         label = getDate(i+22),
         )
-    print("once")
-    print(step)
     step["args"][1][i] = True  # Toggle i'th trace to "visible"
     steps.append(step)
 
