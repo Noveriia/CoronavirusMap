@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99cbf14f-3fae-48db-bfcb-b1ba905a6313" name="Default Changelist" comment="" />
+    <list default="true" id="99cbf14f-3fae-48db-bfcb-b1ba905a6313" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/map_confirmed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/map_recovered.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +31,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data Visualization" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.map">
-    <configuration name="date test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.map_confirmed">
+    <configuration name="map_confirmed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CoronavirusMap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map_confirmed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="map_dashboard (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CoronavirusMap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +68,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map_dashboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map_dashboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CoronavirusMap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\harry\Desktop\CoronavirusMap-master\map_dashboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map_recovered (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CoronavirusMap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map_recovered.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map_recovered" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CoronavirusMap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\harry\Desktop\CoronavirusMap-master\map_recovered.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,8 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.map" />
-        <item itemvalue="Python.date test" />
+        <item itemvalue="Python.map_confirmed" />
+        <item itemvalue="Python.map_recovered (1)" />
+        <item itemvalue="Python.map_dashboard" />
+        <item itemvalue="Python.map_dashboard (1)" />
+        <item itemvalue="Python.map_recovered" />
       </list>
     </recent_temporary>
   </component>
@@ -133,22 +203,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="454" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588795282001" />
-    <state width="1887" height="252" key="GridCell.Tab.0.bottom" timestamp="1588795256772">
+    <state x="640" y="158" key="FileChooserDialogImpl" timestamp="1588804484643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588795256772" />
-    <state width="1887" height="252" key="GridCell.Tab.0.center" timestamp="1588795256772">
+    <state x="640" y="158" key="FileChooserDialogImpl/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588804484643" />
+    <state width="1887" height="252" key="GridCell.Tab.0.bottom" timestamp="1588808003055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588795256772" />
-    <state width="1887" height="252" key="GridCell.Tab.0.left" timestamp="1588795256772">
+    <state width="1887" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.66.1920.1040@-1920.66.1920.1040" timestamp="1588804693907" />
+    <state width="1887" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588808003055" />
+    <state width="1887" height="252" key="GridCell.Tab.0.center" timestamp="1588808003055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588795256772" />
-    <state width="1887" height="252" key="GridCell.Tab.0.right" timestamp="1588795256772">
+    <state width="1887" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.66.1920.1040@-1920.66.1920.1040" timestamp="1588804693907" />
+    <state width="1887" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588808003055" />
+    <state width="1887" height="252" key="GridCell.Tab.0.left" timestamp="1588808003055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1887" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588795256772" />
+    <state width="1887" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.66.1920.1040@-1920.66.1920.1040" timestamp="1588804693907" />
+    <state width="1887" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588808003055" />
+    <state width="1887" height="252" key="GridCell.Tab.0.right" timestamp="1588808003055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1887" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.66.1920.1040@-1920.66.1920.1040" timestamp="1588804693907" />
+    <state width="1887" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.66.1920.1040@0.0.1920.1040" timestamp="1588808003055" />
     <state x="534" y="94" key="MultipleFileMergeDialog" timestamp="1588795156148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
