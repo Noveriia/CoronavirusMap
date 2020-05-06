@@ -1,11 +1,13 @@
 import schedule
 import time
+import pd
 
-def do_nothing():
-    print("Steven Marsh")
+def click():
+    urlfile = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv"
+    df = pd.read_csv(urlfile)
 
-schedule.every(10).seconds.do(do_nothing)
-schedule.every().day.at('01:00').do(do_nothing())
+schedule.every(10).seconds.do(click())
+schedule.every().day.at('01:00').do(click())
 while 1:
     schedule.run_pending()
     time.sleep(1)
